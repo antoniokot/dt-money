@@ -1,0 +1,31 @@
+{
+  "transactions": [{
+    "id": 1,
+    "description": "Desenvolvimento de Site",
+    "type": "income",
+    "category": "Venda",
+    "price": 14000,
+    "createdAt": "2024-10-16T13:22:27.715Z"
+  }, {
+    "id": 2,
+    "description": "Hamburger",
+    "type": "outcome",
+    "category": "Alimentação",
+    "price": 50,
+    "createdAt": "2024-10-16T13:22:27.715Z"
+  }, {
+    "id": 3,
+    "description": "Camiseta Air Jordan",
+    "type": "outcome",
+    "category": "Roupa",
+    "price": 249.99,
+    "createdAt": "2024-10-16T13:22:27.715Z"
+  }, {
+    "id": 4,
+    "description": "Iniciação Científica",
+    "type": "income",
+    "category": "Estudo",
+    "price": 1200,
+    "createdAt": "2024-10-16T13:22:27.715Z"
+  }]
+}
